@@ -179,12 +179,6 @@ def getRandomPipe():
         {'x': pipeX, 'y': y2} #lower Pipe
     ]
     return pipe
-
-
-
-
-
-
 if __name__ == "__main__":
     # This will be the main point from where our game will start
     pygame.init() # Initialize all pygame's modules
